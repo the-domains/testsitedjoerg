@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: All the Songs I love - from SoundCloud to YouTube to Spotify Snippets
-datePublished: '2016-02-04T16:23:58.463Z'
-dateModified: '2016-02-04T16:20:46.765Z'
+datePublished: '2016-02-04T16:25:21.779Z'
+dateModified: '2016-02-04T16:25:17.572Z'
 title: Songs I love
 author: []
+sourcePath: _posts/2016-02-04-songs-i-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-songs-i-love.md
-published: true
 url: songs-i-love/index.html
-_type: WebPage
+_type: Article
 
 ---
 Songs I love
