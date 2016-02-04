@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: All the Songs I love - from SoundCloud to YouTube to Spotify Snippets
-datePublished: '2016-02-04T16:26:48.480Z'
-dateModified: '2016-02-04T16:26:43.507Z'
+datePublished: '2016-02-04T16:28:41.627Z'
+dateModified: '2016-02-04T16:28:36.903Z'
 title: Songs I love
 author: []
 sourcePath: _posts/2016-02-04-songs-i-love.md
@@ -24,4 +24,6 @@ _type: Article
 ---
 Songs I love
 
-Num
+Num Num
+
+https://www.youtube.com/watch?v=J0p3AiVkWzU
